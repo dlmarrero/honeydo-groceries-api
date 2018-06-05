@@ -1,0 +1,11 @@
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\bin\Debug\netcoreapp2.0\GrocAPI.deps.json
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\bin\Debug\netcoreapp2.0\GrocAPI.runtimeconfig.json
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\bin\Debug\netcoreapp2.0\GrocAPI.runtimeconfig.dev.json
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\bin\Debug\netcoreapp2.0\GrocAPI.dll
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\obj\Debug\netcoreapp2.0\GrocAPI.csprojResolveAssemblyReference.cache
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\obj\Debug\netcoreapp2.0\GrocAPI.csproj.CoreCompileInputs.cache
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\obj\Debug\netcoreapp2.0\GrocAPI.AssemblyInfoInputs.cache
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\obj\Debug\netcoreapp2.0\GrocAPI.AssemblyInfo.cs
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\bin\Debug\netcoreapp2.0\GrocAPI.pdb
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\obj\Debug\netcoreapp2.0\GrocAPI.dll
+C:\Users\dleef\source\repos\GrocAPI\GrocAPI\obj\Debug\netcoreapp2.0\GrocAPI.pdb
